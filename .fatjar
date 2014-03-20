@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Dec 25 10:50:59 CST 2009
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=com.huaweisymantec.search.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|solr>~com/~huaweisymantec/~search/~solr/;<po|solr>~conf/;<po|solr>~doc/;<po|solr>~my_dic/;<po|solr>~org/;<po|solr>~txt/;<jar|apache-solr-cell-1.4.0.jar>;<jar|apache-solr-clustering-1.4.0.jar>;<jar|apache-solr-core-1.4.0.jar>;<jar|apache-solr-dataimporthandler-1.4.0.jar>;<jar|apache-solr-dataimporthandler-extras-1.4.0.jar>;<jar|apache-solr-solrj-1.4.0.jar>;<jar|commons-codec-1.3.jar>;<jar|commons-csv-1.0-SNAPSHOT-r609327.jar>;<jar|commons-fileupload-1.2.1.jar>;<jar|commons-httpclient-3.1.jar>;<jar|commons-io-1.4.jar>;<jar|easymock.jar>;<jar|geronimo-stax-api_1.0_spec-1.0.1.jar>;<jar|jcl-over-slf4j-1.5.5.jar>;<jar|junit-4.3.jar>;<jar|lucene-analyzers-2.9.1.jar>;<jar|lucene-core-2.9.1.jar>;<jar|lucene-highlighter-2.9.1.jar>;<jar|lucene-memory-2.9.1.jar>;<jar|lucene-misc-2.9.1.jar>;<jar|lucene-queries-2.9.1.jar>;<jar|lucene-snowball-2.9.1.jar>;<jar|lucene-spellchecker-2.9.1.jar>;<jar|servlet-api-2.4.jar>;<jar|slf4j-api-1.5.5.jar>;<jar|slf4j-jdk14-1.5.5.jar>;<jar|wstx-asl-3.2.7.jar>;<jar|jetty-6.1.3.jar>;<jar|jetty-util-6.1.3.jar>;<jar|servlet-api-2.5-6.1.3.jar>;<jar|IKAnalyzer3.1.3GA.jar>;<jar|paoding-analysis.jar>;<jar|lucene-smartcn-2.9.1.jar>;<jar|asm-3.1.jar>;<jar|bcmail-jdk14-136.jar>;<jar|bcprov-jdk14-136.jar>;<jar|commons-compress-1.0.jar>;<jar|commons-lang-2.1.jar>;<jar|commons-logging-1.1.1.jar>;<jar|dom4j-1.6.1.jar>;<jar|fontbox-0.1.0.jar>;<jar|geronimo-stax-api_1.0_spec-1.0.jar>;<jar|icu4j-3.8.jar>;<jar|jempbox-0.2.0.jar>;<jar|log4j-1.2.14.jar>;<jar|nekohtml-1.9.9.jar>;<jar|ooxml-schemas-1.0.jar>;<jar|pdfbox-0.7.3.jar>;<jar|poi-3.5-beta6.jar>;<jar|poi-ooxml-3.5-beta6.jar>;<jar|poi-scratchpad-3.5-beta6.jar>;<jar|tika-0.4.jar>;<jar|tika-core-0.4.jar>;<jar|tika-parsers-0.4.jar>;<jar|xercesImpl-2.8.1.jar>;<jar|xml-apis-1.0.b2.jar>;<jar|xmlbeans-2.3.0.jar>
+includes=
